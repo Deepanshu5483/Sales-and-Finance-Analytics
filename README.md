@@ -8,7 +8,7 @@ This project aims to provide actionable insights through Sales and Finance Repor
 ### Sales Report
 
 **Objective:**
-- Create a Customer Performance Report.
+- Create a [Customer_Performance_Report](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf).
 - Conduct a comprehensive comparison between market performance and sales targets.
 
 **Purpose:**
