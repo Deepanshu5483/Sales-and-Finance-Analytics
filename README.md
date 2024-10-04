@@ -1,4 +1,4 @@
-Sales-and-Finance-Analytics
+#Sales-and-Finance-Analytics
 Project Overview
 This project aims to provide actionable insights through Sales and Finance Reports by analyzing performance, identifying patterns, and helping businesses optimize their strategies. The key objectives for both Sales and Finance analytics are outlined below.
 
