@@ -9,7 +9,7 @@ This project aims to provide actionable insights through Sales and Finance Repor
 
 **Objective:**
 - Create a [_Customer Performance Report_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf).
-- Conduct a comprehensive comparison between [_market performance_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/Market%20performance%20report.pdf) and sales targets.
+- Conduct a comprehensive comparison between [_market performance and sales targets_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/Market%20performance%20report.pdf).
 
 **Purpose:**
 - Empower businesses to monitor and evaluate their sales activities.
@@ -24,8 +24,8 @@ This project aims to provide actionable insights through Sales and Finance Repor
 ### Finance Report
 
 **Objective:**
-- Create [_Profit and Loss (P&L_) reports_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20BY%20FISCAL%20YEAR.pdf) segmented by fiscal year_ and [_analyze GM% by quarters_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20GM%25%20by%20Quarters%20(sub_zone).pdf).
-- Develop [_P&L reports by specific markets_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf).
+- Create Profit and Loss (P&L) reports segmented by [_fiscal year_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20BY%20FISCAL%20YEAR.pdf) and analyze [_GM% by quarters_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20GM%25%20by%20Quarters%20(sub_zone).pdf).
+- Develop P&L reports by specific [_markets_](https://github.com/Deepanshu5483/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf).
 
 **Purpose:**
 - Evaluate financial performance to support strategic decision-making and stakeholder communication.
